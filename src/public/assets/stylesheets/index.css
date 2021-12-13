@@ -1,0 +1,53 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial;
+  min-height: 100vh;
+}
+
+.container {
+  height: 800px
+}
+
+.jumbotron {
+  overflow: hidden;
+  position: relative;
+  background: #05233e
+}
+
+.spin {
+  width: 6rem !important;
+  height: 6rem !important;
+  margin-top: 20%;
+}
+
+.jumbotron h3{
+  color: #e98823;
+}
+
+.navbar-brand {
+  background-color: #e98823;
+  margin: 2px;
+}
+
+.navbar .nav-link.active{
+  background-color: #05233e;
+}
+
+.nav-link {
+  margin: 2px;
+  padding-left: 2px;
+}
+
+th {
+  color: white;
+  background-color: #05233e !important;
+}
+
+td {
+  background-color: #e98823 !important;
+  color: white
+}
+
+

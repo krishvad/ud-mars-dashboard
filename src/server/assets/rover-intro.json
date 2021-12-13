@@ -1,0 +1,26 @@
+{
+    "curiosity": {
+        "launch": "7:02 a.m. PST, Nov. 26, 2011",
+        "landing": "10:32 p.m. PDT, Aug. 5, 2012",
+        "launchVehicle": "Atlas V-451 ",
+        "landingLocation": "Gale Crater",
+        "mission": "Curiosity set out to answer the question: Did Mars ever have the right environmental conditions to support small life forms called microbes? Early in its mission, Curiosity's scientific tools found chemical and mineral evidence of past habitable environments on Mars",
+        "active": true
+    },
+    "spirit": {
+        "launch": "June 10, 2003 UTC",
+        "landing": "January 4, 2004",
+        "launchVehicle": "Delta II 7925",
+        "landingLocation": "Gusev Crater",
+        "mission": "First among the mission's scientific goals was to search for and characterize a wide range of rocks and soils for clues to past water activity on Mars. Spirit landed at Gusev Crater, a possible former lake in a giant impact crater. While Spirit's initial travels in Gusev Crater revealed a more basaltic setting, after reaching the \"Columbia Hills\" the rover found a variety of rocks indicating that early Mars was characterized by impacts, explosive volcanism, and subsurface water. Unusual-looking bright patches of soil turned out to be extremely salty and affected by past water",
+        "active": false
+    },
+    "opportunity": {
+        "launch": "July 8, 2003 UTC",
+        "landing": "January 25, 2004",
+        "launchVehicle": "Delta II 7925H",
+        "landingLocation": "Meridiani Planum",
+        "mission": "First among the mission's scientific goals was to search for and characterize a wide range of rocks and soils for clues to past water activity on Mars. Opportunity landed at Meridiani Planum, a place where mineral deposits suggested that Mars had a wet history. Opportunity's study of \"Eagle\" and \"Endurance\" craters revealed evidence for past inter-dune playa lakes that evaporated to form sulfate-rich sands. The sands were reworked by water and wind, solidified into rock, and soaked by groundwater",
+        "active": false
+    }
+}
