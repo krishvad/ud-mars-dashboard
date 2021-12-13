@@ -105,7 +105,7 @@ const RoverPhotoHeader = (roverName) => {
 
 /**
  * @description - Create footer section of the app
- * @returns {void}
+ * @returns {string}
  */
 const Footer = () => `
   <div class="row m-4">
